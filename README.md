@@ -58,6 +58,8 @@ citypulse-ai/
 demo prototype
 https://city-pulse-ai.vercel.app/
 ![image](https://github.com/user-attachments/assets/40d965f8-1ed1-480c-a118-3290f60d415f)
+![image](https://github.com/user-attachments/assets/e273c846-e5f9-4c87-8166-7131b9a5fb61)
+
 
 
 
