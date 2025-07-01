@@ -53,6 +53,7 @@ citypulse-ai/
 <br>
 └── tsconfig.json # TypeScript config
 
+<br><br>
 
 demo prototype
 https://city-pulse-ai.vercel.app/
