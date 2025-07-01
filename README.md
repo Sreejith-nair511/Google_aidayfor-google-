@@ -2,6 +2,8 @@
 
 CityPulse AI is a modern, AI-enhanced urban analytics and civic engagement platform designed for smarter cities. It features dynamic map views, analytics dashboards, and AI integrations, including the **Tere Femini** module focused on gender-inclusive urban planning.
 
+<h3>Still work in progress</h3>
+<h4>made specifically for mboile might have issue with pc </h4>
 ## 🚀 Features
 
 - 🧠 **Tere Femini AI Integration**: Custom-trained AI model that analyzes urban safety, accessibility, and gender equity in city design and infrastructure.
@@ -71,6 +73,14 @@ Create new components under components/ui/.
 For AI integrations, use APIs in lib/ or create new utility hooks in hooks/.
 
 Add map data visualizations in app/components/map.tsx.
+![image](https://github.com/user-attachments/assets/71a96eeb-f930-489a-a733-667391827a03)
+![image](https://github.com/user-attachments/assets/66c9db56-2a4e-4238-87f2-6fb45e6941bb)
+![image](https://github.com/user-attachments/assets/4e92d29d-9ffd-47f7-8873-c5df83377890)
+
+demo prototype
+https://city-pulse-ai.vercel.app/
+
+
 
 🙌 Contributors
 Made with ❤️ by the CityPulse team.
