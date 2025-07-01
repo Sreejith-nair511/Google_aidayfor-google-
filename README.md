@@ -46,13 +46,11 @@ citypulse-ai/
 ├── tailwind.config.ts # TailwindCSS config
 └── tsconfig.json # TypeScript config
 
-<h2>demo </h2>
-![image](https://github.com/user-attachments/assets/71a96eeb-f930-489a-a733-667391827a03)
-![image](https://github.com/user-attachments/assets/66c9db56-2a4e-4238-87f2-6fb45e6941bb)
-![image](https://github.com/user-attachments/assets/4e92d29d-9ffd-47f7-8873-c5df83377890)
 
 demo prototype
 https://city-pulse-ai.vercel.app/
+![image](https://github.com/user-attachments/assets/40d965f8-1ed1-480c-a118-3290f60d415f)
+
 
 
 
