@@ -38,12 +38,19 @@ The `Tere Femini` AI is a custom-trained model that offers insights on:
 
 citypulse-ai/
 ├── app/ # App pages and layout
+<br>
 ├── components/ # Reusable UI components
+<br>
 ├── hooks/ # Custom React hooks
+<br>
 ├── lib/ # Utility functions
+<br>
 ├── public/ # Static assets
+<br>
 ├── styles/ # Global styles
+<br>
 ├── tailwind.config.ts # TailwindCSS config
+<br>
 └── tsconfig.json # TypeScript config
 
 
