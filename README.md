@@ -32,7 +32,7 @@ The `Tere Femini` AI is a custom-trained model that offers insights on:
 - **Sentiment analysis** from public feedback.
 - Can be integrated with city APIs, citizen reports, or IOT sensor data.
 
-> Coming soon: Voice interaction, multilingual support, and predictive alerting.
+> Coming soon: Voice interaction, multilingual support(complete), and predictive alerting.
 
 ## 📁 Project Structure
 
