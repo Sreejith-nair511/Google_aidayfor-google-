@@ -4,6 +4,15 @@ CityPulse AI is a modern, AI-enhanced urban analytics and civic engagement platf
 
 <h3>Still work in progress</h3>
 <h4>made specifically for mboile might have issue with pc </h4>
+<img width="1950" height="739" alt="diagram-export-11-7-2025-5_17_36-am" src="https://github.com/user-attachments/assets/fd101054-5018-485a-9f03-f1793f88693b" />
+<img width="1760" height="577" alt="diagram-export-11-7-2025-4_43_35-am" src="https://github.com/user-attachments/assets/e68f65c1-e03f-40d2-9d8d-da9420ff042d" />
+
+
+<img width="2701" height="663" alt="diagram-export-11-7-2025-4_48_16-am" src="https://github.com/user-attachments/assets/6635aca9-e81b-44f6-aaad-8f460a162796" />
+<img width="1470" height="790" alt="diagram-export-11-7-2025-5_04_34-am" src="https://github.com/user-attachments/assets/dd21bc7d-27b3-4c8e-bee3-12e78498d02d" />
+
+
+
 ## 🚀 Features
 
 - 🧠 **Tere Femini AI Integration**: Custom-trained AI model that analyzes urban safety, accessibility, and gender equity in city design and infrastructure.
